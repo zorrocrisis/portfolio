@@ -132,7 +132,7 @@ body {
 }
 .banner-img img {
 	position: absolute;
-	bottom: -100px;
+	bottom: 100px;
 	width: 90%;
 }
 @media screen and (max-width:768px) {
