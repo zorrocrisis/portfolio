@@ -127,12 +127,12 @@ body {
 }
 .banner-img {
 	position: relative;
-	width: 100%;
+	width: 120%;
 	height: 100vh;
 }
 .banner-img img {
 	position: absolute;
-	bottom: 100px;
+	bottom: 80;
 	width: 90%;
 }
 @media screen and (max-width:768px) {
